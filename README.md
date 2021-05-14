@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media1.tenor.com/images/7f7f2882899755a705a2953b6fcfc263/tenor.gif?itemid=5662740" alt="gif" >
+<img src="https://github.com/sonhal/sonhal/raw/main/matrix-croped.gif" alt="gif" width="100%">
 
 <a href="https://github-readme-stats.vercel.app/api?username=sonhal&show_icons=true&theme=merko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonhal&show_icons=true&theme=merko" />
