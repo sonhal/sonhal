@@ -7,6 +7,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sonhal&hide=jupyter%20notebook&theme=merko&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonhal&hide=jupyter%20notebook&theme=merko&layout=compact" />
 </a>
+<br><br>
 
 - 🔭 I’m currently working on platform stuff @navikt
 
