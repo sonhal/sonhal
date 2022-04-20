@@ -8,7 +8,7 @@
 </a>
 <br><br>
 
-- 🔭 I’m currently working on platform stuff @navikt
+- 🔭 I’m currently working on the sickness benefit system @navikt
 
 
 
